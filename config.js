@@ -39,12 +39,12 @@ const CONFIG = {
     date: "2027-08-28",
     time: "14:30",
     venue: "팔레드 오페라",
-    hall: "뭐뭐뭐",
-    address: "서울특별시 강남구 테헤란로 123",
-    tel: "02-1234-5678",
+    hall: "3층 트리아농홀",
+    address: "대전 서구 둔산남로 50",
+    tel: "042-300-5000",
     mapLinks: {
-      kakao: "https://map.kakao.com/",
-      naver: "https://map.naver.com/"
+      kakao: "https://place.map.kakao.com/1518140833",
+      naver: "https://map.naver.com/p/search/%ED%8C%94%EB%A0%88%EB%93%9C%EC%98%A4%ED%8E%98%EB%9D%BC/place/1599246173?placePath=/home?bk_query=%ED%8C%94%EB%A0%88%EB%93%9C%EC%98%A4%ED%8E%98%EB%9D%BC&entry=pll&from=map&fromNxList=true&fromPanelNum=2&timestamp=202605261234&locale=ko&svcName=map_pcv5&searchText=%ED%8C%94%EB%A0%88%EB%93%9C%EC%98%A4%ED%8E%98%EB%9D%BC&searchType=place&c=15.00,0,0,0,dh"
     }
   },
 
